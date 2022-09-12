@@ -1,0 +1,24 @@
+.container{
+    height:100%;
+    border:2px solid black;
+   background-color:violet;
+   margin-top:2em;
+}
+
+.col{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:2em;
+    height:2em;
+}
+
+.row{
+    
+   display:flex;
+   justify-content: center;
+}
+  
+.img-fluid{
+    margin-top:3rem;
+}
